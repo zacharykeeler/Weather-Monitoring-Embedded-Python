@@ -5,3 +5,6 @@ For CS370 at Colorado State University
 Zach Keeler
 
 Raymond Bicknell
+
+Heidi Lamb
+
