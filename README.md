@@ -1,4 +1,4 @@
-# Weather Monitoring Embedded Python
+# Embedded-Pi-Sensor-Project
 For CS370 at Colorado State University
 
 resolution:
